@@ -1,1 +1,2 @@
 # BIO539_Exam4
+This code takes a text file containing a list of sequences and returns the the linguistic complexity of each sequence. It does so by caculating the total number of unique substrings of any possible size and diving that by the total possible number of substrings of any possible size. The input file must be a file with each sequence on a separate line, and the output file will be a text file with the sequence and linguistic complexity of each sequence on the line. 
